@@ -1,0 +1,33 @@
+@charset "UTF-8";
+@media screen and (min-width: 860px) {
+    section {
+        width: 850px;
+    }
+
+    body {
+        width: 98vw;
+        height: 100vh;
+    }
+
+    div#imagem {
+        border-top-left-radius: 0px;
+        border-bottom-right-radius: 10px;
+        float: right;
+        width: 425px;
+        height: 375px;
+    }
+
+    div#conteudo {
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 0px;
+        
+        float: left;
+        width: 425px;
+        height: 350px;
+    }
+
+
+    h2 {
+        padding-top: 5px;
+    }
+}
