@@ -27,7 +27,7 @@ html {
 
 body {  
     width: 96vw;
-    height: 140vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
